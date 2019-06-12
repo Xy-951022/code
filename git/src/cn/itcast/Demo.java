@@ -6,9 +6,12 @@ public class Demo {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
+        System.out.println("word");
+        System.out.println("word");
+        System.out.println("word");
+        System.out.println("word");
+
+
+
     }
 }
